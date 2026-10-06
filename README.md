@@ -1330,7 +1330,7 @@ This frontend is designed to work with the DentalBot Spring Boot backend.
 Backend repository:
 
 ```text
-<YOUR_BACKEND_GITHUB_REPOSITORY_URL>
+https://github.com/riyanikam05/dentalbot-mvp
 ```
 
 ---

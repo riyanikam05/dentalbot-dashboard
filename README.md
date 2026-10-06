@@ -1188,30 +1188,15 @@ This avoids duplicating the same UI logic across pages.
 
 ---
 
-# 📈 Future Improvements
+## 📈 Future Improvements
 
-Potential frontend improvements include:
-
-- Clinic registration UI
-- Clinic profile/settings page
+- Clinic registration and profile management UI
 - Patient conversation viewer
-- Individual lead details page
-- Search and filtering for leads
-- Lead pagination
-- Appointment filtering
-- Appointment cancellation
-- Appointment rescheduling
+- Lead search and filtering
+- Appointment rescheduling and cancellation
 - Toast notifications
-- Better mobile navigation
-- Refresh token handling
-- Environment-based API configuration
+- Automated frontend and end-to-end tests
 - Production deployment
-- Automated frontend tests
-- End-to-end testing
-- Accessibility improvements
-- Dark mode
-- Analytics dashboard
-- Real-time dashboard updates
 
 ---
 
